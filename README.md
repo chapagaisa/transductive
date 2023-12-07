@@ -8,19 +8,19 @@
   
 ### Dependencies
 The models has been tested in Google Colab which has Python Version of 3.10.12, with following required packages: <br>
-cudatoolkit=11.8.89
-dgl-cuda10.1=0.6
-ignite=0.4.2
-nltk=3.8.1
-python=3.8.10
-pytorch==1.13.0
-scikit-learn=0.22.2
-transformers=4.1.1
+cudatoolkit=11.8.89 <br>
+dgl-cuda10.1=0.6 <br>
+ignite=0.4.2 <br>
+nltk=3.8.1 <br>
+python=3.8.10 <br>
+pytorch==1.13.0 <br>
+scikit-learn=0.22.2 <br>
+transformers=4.1.1 <br>
 
 ### Code Reference
 The coding refernce for this project are from TEXTGCN and BertGCN. 
 
-https://github.com/codeKgu/Text-GCN
+https://github.com/codeKgu/Text-GCN        <br>
 https://github.com/ZeroRin/BertGCN/tree/main
 
 
