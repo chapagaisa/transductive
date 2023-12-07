@@ -28,5 +28,5 @@ https://github.com/ZeroRin/BertGCN/tree/main
 Step1: Due to Ethical concerns datasets are not made public. However, you can test the model with any datasets (Movie Review, Book Review, etc.) that is publicly available. <br>
 Step2: Install dependencies using terminal "pip install -r requirements.txt". If you wish to use .ipynb file in google colab, dependencies are included in the file. <br>
 Step3: Run python build_graph.py [dataset] to build the text graph. <br>
-Step4: Run python train_bert_gcn.py --dataset [dataset] <br>
+Step4: Run python train_bert_gcn.py --dataset [dataset] 
 
