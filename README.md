@@ -7,7 +7,7 @@
 
   
 ### Dependencies
-The models has been tested in Google Colab which has Python Version of 3.10.12, with following required packages: <br>
+We used a Linux server equipped with an NVIDIA GPU, with following required packages: <br>
 cudatoolkit=11.8.89 <br>
 dgl-cuda10.1=0.6 <br>
 ignite=0.4.2 <br>
