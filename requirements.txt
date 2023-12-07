@@ -1,0 +1,8 @@
+cudatoolkit=11.8.89
+dgl-cuda10.1=0.6
+ignite=0.4.2
+nltk=3.8.1
+python=3.8.10
+pytorch==1.13.0
+scikit-learn=0.22.2
+transformers=4.1.1
